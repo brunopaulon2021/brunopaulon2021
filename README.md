@@ -1,4 +1,4 @@
-<div style="background-color:purple"> 
+
 ## Olá, Eu sou Bruno Paulon
 
 - 🔎  Buscando Vaga para Programador Front-End
@@ -28,5 +28,5 @@
   <a href = "mailto:paulonbruno9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-felipe-ribeiro-paulon-137b70206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-</div> 
+
   
