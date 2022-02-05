@@ -1,8 +1,8 @@
 
 ## Olá, Eu sou Bruno Paulon
 
-- 🔎  Buscando Vaga para Programador Front-End
-- 📚  Atualmente estudando TypesScript e ReactJS 
+- 🔎  Buscando Vaga para Programador Web.
+- 📚  Atualmente estudando TypesScript e ReactJS.
 <hr>
 <div>
   <a href="https://github.com/brunopaulon2021">
