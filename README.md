@@ -1,8 +1,8 @@
 
-## Olá, Eu sou Bruno Paulon
+## Hi, I'm Bruno Paulon
 
-- 🔎  Buscando Vaga para Programador Web.
-- 📚  Atualmente estudando TypesScript e ReactJS.
+- 🔎 Seeking Job for Web Developer.
+- Since I was very young, I've been passionate about website and app layouts, I believe that we all look for the perfect designer in various aspects of life, and our differences make us beautiful, my goal is to become a FullStack DEV.
 <hr>
 <div>
   <a href="https://github.com/brunopaulon2021">
@@ -12,11 +12,9 @@
 
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  
  </div>
   
